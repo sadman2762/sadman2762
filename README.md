@@ -11,7 +11,6 @@
 - 💬 Ask me about **C, SQL, Python**
 
 - 📄 Know about my experiences [42 Heilbronn, a coding institude](42 Heilbronn, a coding institude)
-<a href="https://stardev.io/developers/sadman2762"><img alt="Check out sadman2762's profile on stardev.io" src="https://stardev.io/developers/sadman2762/badge/languages/global.svg" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -28,5 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadman2762&show_icons=true&locale=en" alt="sadman2762" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadman2762&" alt="sadman2762" /></p>
+<br/>
+<a href="https://stardev.io/developers/sadman2762"><img alt="Check out sadman2762's profile on stardev.io" src="https://stardev.io/developers/sadman2762/badge/languages/global.svg" /></a>
+
 
 
