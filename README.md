@@ -3,7 +3,9 @@
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman2762&label=Profile%20views&color=0e75b6&style=flat" alt="sadman2762" /> </p>
+<a href="https://stardev.io/developers/sadman2762"><img alt="Check out sadman2762's profile on stardev.io" src="https://stardev.io/developers/sadman2762/badge/languages/global.svg" /></a>
 
 - 🌱 I’m currently learning **C , SQL, Python etc**
 
