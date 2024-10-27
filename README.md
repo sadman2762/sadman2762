@@ -5,13 +5,14 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman2762&label=Profile%20views&color=0e75b6&style=flat" alt="sadman2762" /> </p>
-<a href="https://stardev.io/developers/sadman2762"><img alt="Check out sadman2762's profile on stardev.io" src="https://stardev.io/developers/sadman2762/badge/languages/global.svg" /></a>
 
 - 🌱 I’m currently learning **C , SQL, Python etc**
 
 - 💬 Ask me about **C, SQL, Python**
 
 - 📄 Know about my experiences [42 Heilbronn, a coding institude](42 Heilbronn, a coding institude)
+<a href="https://stardev.io/developers/sadman2762"><img alt="Check out sadman2762's profile on stardev.io" src="https://stardev.io/developers/sadman2762/badge/languages/global.svg" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
